@@ -6,10 +6,10 @@
 	<title>ITMD-361 Internet Technologies and Web Design</title>
 </head>
 <body>
-<h1>ITMD-361 Internet Technologies and Web Design</h>
-<h3>Fall 2018 </h2>
+<h1>ITMD-361 Internet Technologies and Web Design</h1>
+<h3>Fall 2018 </h3>
 <P>Student Name: Seungyeon Ko  Email:sko6@hawk.iit.edu </p>
-<h2>Professor </h>
+<h2>Professor </h2>
 <p>Daniel Krieglstein </p>
 <h2>Lectures Days, Time and Place: </h2>
 <p>Tuesday 6:25pm to 9:05pm 
